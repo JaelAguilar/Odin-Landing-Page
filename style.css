@@ -106,3 +106,16 @@ body{
     text-align:center;
     color:#1f2937;
 }
+
+.quote{
+    background-color: #e5e7eb;
+    padding:10% 20%;
+    font-style:italic;
+    font-size:36px;
+}
+
+.quote-author{
+    font-size: 24px;
+    text-align: end;
+    font-weight:bolder;
+}
